@@ -12,7 +12,7 @@ I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 
 ## WalkThrough Video
-[Video link]()
+[Video link](https://drive.google.com/file/d/1tqpMwa4frQP0Xd_JKhllFCOg0e4OVH2n/view)
 
 ## Installation
 
